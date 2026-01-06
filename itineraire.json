@@ -1,0 +1,455 @@
+{
+  "pays": "Japon",
+  "drapeau": "🇯🇵",
+  "symbole": "🌸",
+  "titre": "Sérénité Japonaise : Escapade Relaxante à Tokyo et ses Environs",
+  "budget_total": "Environ 2800 €/personne",
+  "duree": "11 jours",
+  "date_debut": "2026-01-31",
+  "date_fin": "2026-02-11",
+  "temps_vol": "16h30 (depuis Sain, Pakistan)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Tokyo",
+      "legende": "Après un long voyage, la première journée est dédiée à l'installation et à une première immersion paisible dans l'ambiance tokyoïte. Une balade légère permet de s'acclimater sans précipitation.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Haneda (HND)</strong>: Transfert vers votre hôtel au cœur de Tokyo, une première expérience des transports japonais efficaces.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous détendre après le vol.",
+        "<strong>🚶‍♂️ Balade relaxante à Shinjuku Gyoen</strong>: Un havre de paix au milieu de l'effervescence urbaine, idéal pour une promenade douce et admirer les jardins japonais, français et anglais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Haneda, Tokyo",
+          "categorie": "Aéroport",
+          "coords": { "lat": 35.5494, "lng": 139.7798 }
+        },
+        {
+          "nom_recherche": "Shinjuku Gyoen National Garden, Tokyo",
+          "categorie": "Jardin",
+          "coords": { "lat": 35.6852, "lng": 139.7101 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil d'arrivée",
+          "texte": "Le \"Limousine Bus\" est une option confortable pour rejoindre de nombreux hôtels depuis Haneda, évitant le stress des correspondances en train avec les bagages."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛩️",
+      "titre": "Tradition et modernité à Tokyo",
+      "legende": "Découvrez la spiritualité du sanctuaire Meiji Jingu, puis plongez dans l'atmosphère unique de Harajuku avant de vous ressourcer dans un jardin zen.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>⛩️ Visite du sanctuaire Meiji Jingu</strong>: Promenez-vous dans cette forêt sacrée au cœur de Tokyo, un lieu de sérénité dédié à l'Empereur Meiji et à l'Impératrice Shoken.",
+        "<strong>🚶‍♀️ Flânerie à Harajuku (Takeshita-dori)</strong>: Explorez ce quartier emblématique de la mode jeune et de la culture pop, en vous limitant à une observation amusée de l'effervescence.",
+        "<strong>🍵 Cérémonie du thé traditionnelle</strong>: Participez à une cérémonie du thé apaisante pour une immersion culturelle et un moment de calme."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Meiji Jingu, Tokyo",
+          "categorie": "Sanctuaire",
+          "coords": { "lat": 35.6764, "lng": 139.6993 }
+        },
+        {
+          "nom_recherche": "Takeshita-dori, Harajuku, Tokyo",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 35.6727, "lng": 139.7034 }
+        },
+        {
+          "nom_recherche": "Happo-en Garden, Tokyo",
+          "categorie": "Jardin / Cérémonie du thé",
+          "coords": { "lat": 35.6378, "lng": 139.7197 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶",
+          "titre": "Conseil de marche",
+          "texte": "Le chemin menant au Meiji Jingu est long mais plat et ombragé, parfait pour une balade tranquille. Prévoyez de bonnes chaussures."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏮",
+      "titre": "Tokyo historique et croisière fluviale",
+      "legende": "Plongez dans le passé de Tokyo à Asakusa avec son temple emblématique, puis offrez-vous une croisière relaxante sur la rivière Sumida pour admirer la ville sous un autre angle.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🏮 Visite du temple Senso-ji à Asakusa</strong>: Le plus ancien temple de Tokyo, avec sa porte Kaminarimon et sa rue commerçante Nakamise-dori. Un lieu vibrant d'histoire.",
+        "<strong>🛍️ Exploration de Nakamise-dori</strong>: Flânez le long de cette allée bordée de boutiques traditionnelles, parfait pour trouver des souvenirs uniques et des douceurs locales.",
+        "<strong>🚢 Croisière sur la rivière Sumida</strong>: Une manière paisible de voir les gratte-ciel, la Tokyo Skytree et les ponts de Tokyo, loin de l'agitation des rues."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Senso-ji Temple, Tokyo",
+          "categorie": "Temple",
+          "coords": { "lat": 35.7147, "lng": 139.7967 }
+        },
+        {
+          "nom_recherche": "Nakamise-dori, Tokyo",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 35.7109, "lng": 139.7963 }
+        },
+        {
+          "nom_recherche": "Embarcadère Asakusa, Tokyo",
+          "categorie": "Transport fluvial",
+          "coords": { "lat": 35.7108, "lng": 139.7997 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo iconique",
+          "texte": "Ne manquez pas la photo de la porte Kaminarimon avec sa lanterne géante, un symbole fort d'Asakusa."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "♨️",
+      "titre": "Détente et paysages volcaniques à Hakone",
+      "legende": "Évadez-vous vers la région volcanique de Hakone, célèbre pour ses sources chaudes (onsen) et ses vues imprenables sur le Mont Fuji. Une journée dédiée à la relaxation et à la beauté naturelle.",
+      "lieu": "Hakone",
+      "activites": [
+        "<strong>🚆 Trajet panoramique vers Hakone</strong>: Prenez le train \"Romancecar\" depuis Shinjuku pour un voyage confortable et pittoresque vers Hakone.",
+        "<strong>♨️ Baignade dans un onsen traditionnel</strong>: Profitez des bienfaits des sources chaudes naturelles dans un ryokan (auberge traditionnelle) ou un bain public.",
+        "<strong>🚢 Croisière sur le lac Ashi</strong>: Admirez le Mont Fuji (si le temps le permet) et les torii flottants depuis les eaux calmes du lac, à bord d'un bateau pirate fantaisiste."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Hakone-Yumoto, Hakone",
+          "categorie": "Gare",
+          "coords": { "lat": 35.2359, "lng": 139.1032 }
+        },
+        {
+          "nom_recherche": "Lac Ashi, Hakone",
+          "categorie": "Lac",
+          "coords": { "lat": 35.2042, "lng": 139.0208 }
+        },
+        {
+          "nom_recherche": "Hakone Open-Air Museum, Hakone",
+          "categorie": "Musée en plein air",
+          "coords": { "lat": 35.2447, "lng": 139.0494 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Étiquette Onsen",
+          "texte": "Renseignez-vous sur les règles des onsen (douche avant, pas de maillot de bain, etc.) pour une expérience respectueuse et agréable."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🖼️",
+      "titre": "Art et jardins impériaux à Tokyo",
+      "legende": "Après le retour de Hakone, explorez les jardins sereins du Palais Impérial et le quartier chic de Ginza, mêlant art, shopping de luxe et architecture moderne.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🚆 Retour à Tokyo</strong>: Voyage retour depuis Hakone, en profitant des paysages.",
+        "<strong>🌳 Promenade dans les Jardins Est du Palais Impérial</strong>: Les seuls jardins accessibles au public, offrant une oasis de verdure et des vestiges de l'ancien château d'Edo.",
+        "<strong>🛍️ Flânerie à Ginza</strong>: Admirez les vitrines des boutiques de luxe et l'architecture élégante de ce quartier emblématique, sans obligation d'achat."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardins Est du Palais Impérial, Tokyo",
+          "categorie": "Jardin",
+          "coords": { "lat": 35.6866, "lng": 139.7562 }
+        },
+        {
+          "nom_recherche": "Ginza, Tokyo",
+          "categorie": "Quartier commerçant",
+          "coords": { "lat": 35.6714, "lng": 139.7668 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Pause café",
+          "texte": "Ginza regorge de cafés élégants où vous pourrez faire une pause et observer l'animation du quartier."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏮",
+      "titre": "Charme de l'ancien Tokyo et parc d'Ueno",
+      "legende": "Découvrez l'atmosphère nostalgique du quartier de Yanaka Ginza, puis explorez le vaste parc d'Ueno, abritant musées, temples et un lac paisible.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🚶‍♀️ Balade à Yanaka Ginza</strong>: Ce quartier conserve le charme de l'ancien Tokyo avec ses petites boutiques traditionnelles, ses temples et son ambiance décontractée.",
+        "<strong>🌳 Détente au parc d'Ueno</strong>: Profitez de ce grand parc urbain pour une promenade, visitez un musée (comme le Musée National de Tokyo) ou simplement vous asseoir au bord de l'étang Shinobazu.",
+        "<strong>🍜 Dégustation de ramen</strong>: Savourez un bol de ramen authentique dans un restaurant local, une expérience culinaire réconfortante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Yanaka Ginza Shopping Street, Tokyo",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 35.7289, "lng": 139.7621 }
+        },
+        {
+          "nom_recherche": "Ueno Park, Tokyo",
+          "categorie": "Parc",
+          "coords": { "lat": 35.7145, "lng": 139.7741 }
+        },
+        {
+          "nom_recherche": "Musée National de Tokyo, Ueno Park",
+          "categorie": "Musée",
+          "coords": { "lat": 35.7188, "lng": 139.7769 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🐱",
+          "titre": "Amis félins",
+          "texte": "Yanaka est réputé pour ses nombreux chats errants, souvent amicaux. Un régal pour les amoureux des animaux!"
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🎨",
+      "titre": "Art, nature et ambiance locale",
+      "legende": "Explorez un quartier plus résidentiel et verdoyant de Tokyo, parfait pour une journée relaxante loin de la foule, avec une touche d'art ou de nature.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🌳 Promenade au parc d'Inokashira</strong>: Un grand parc avec un lac où l'on peut faire du pédalo, des jardins et une ambiance familiale. Idéal pour une balade tranquille.",
+        "<strong>🛍️ Exploration du quartier de Kichijoji</strong>: Un quartier prisé des locaux, avec des boutiques indépendantes, des cafés cosy et une atmosphère détendue.",
+        "<strong>🍣 Dîner sushi dans un restaurant local</strong>: Profitez de la fraîcheur des produits japonais dans un cadre authentique, loin des pièges à touristes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Inokashira Park, Musashino",
+          "categorie": "Parc",
+          "coords": { "lat": 35.6989, "lng": 139.5707 }
+        },
+        {
+          "nom_recherche": "Kichijoji Sunroad Shopping Street, Musashino",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 35.7032, "lng": 139.5802 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce Ghibli",
+          "texte": "Si vous êtes fan du Studio Ghibli, le Musée Ghibli se trouve à Mitaka, à côté du parc d'Inokashira. Les billets doivent être réservés des mois à l'avance!"
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏞️",
+      "titre": "Trésors de Nikko : Temples et nature",
+      "legende": "Partez pour une excursion d'une journée à Nikko, un site classé au patrimoine mondial de l'UNESCO, réputé pour ses sanctuaires magnifiques et ses paysages naturels apaisants.",
+      "lieu": "Nikko",
+      "activites": [
+        "<strong>🚆 Trajet vers Nikko</strong>: Prenez le train depuis Tokyo pour un voyage d'environ 2 heures vers cette région montagneuse.",
+        "<strong>⛩️ Visite du sanctuaire Toshogu</strong>: Admirez l'architecture extravagante et les sculptures détaillées de ce complexe de sanctuaires, niché dans une forêt luxuriante.",
+        "<strong>🚶‍♂️ Promenade au bord de la rivière Daiya</strong>: Profitez d'une balade relaxante le long de la rivière, en admirant le pont Shinkyo, un pont sacré vermillon."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Toshogu Shrine, Nikko",
+          "categorie": "Sanctuaire",
+          "coords": { "lat": 36.7576, "lng": 139.5997 }
+        },
+        {
+          "nom_recherche": "Futarasan Jinja, Nikko",
+          "categorie": "Sanctuaire",
+          "coords": { "lat": 36.7584, "lng": 139.5978 }
+        },
+        {
+          "nom_recherche": "Pont Shinkyo, Nikko",
+          "categorie": "Pont",
+          "coords": { "lat": 36.7523, "lng": 139.6015 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport local",
+          "texte": "À Nikko, un bus touristique permet de relier facilement les principaux sites depuis la gare. Le \"Nikko Pass\" peut être avantageux."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🧘‍♀️",
+      "titre": "Retour à Tokyo et soirée de détente",
+      "legende": "Après l'exploration de Nikko, retour à Tokyo pour une soirée plus calme, peut-être un dîner dans un izakaya local ou une simple promenade nocturne.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🚆 Retour à Tokyo</strong>: Profitez du trajet pour vous reposer et admirer les paysages.",
+        "<strong>💆‍♀️ Moment de relaxation</strong>: Offrez-vous un massage ou un moment de détente dans un sento (bain public) pour soulager la fatigue.",
+        "<strong>🍲 Dîner dans un izakaya traditionnel</strong>: Découvrez l'ambiance conviviale d'un pub japonais, en dégustant des petites assiettes variées (yakitori, tempura, etc.)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Tokyo, Tokyo",
+          "categorie": "Gare",
+          "coords": { "lat": 35.6812, "lng": 139.7671 }
+        },
+        {
+          "nom_recherche": "Oedo Onsen Monogatari, Tokyo (fermé)",
+          "categorie": "Onsen urbain",
+          "coords": { "lat": 35.6202, "lng": 139.7797 }
+        },
+        {
+          "nom_recherche": "Shibuya Nonbei Yokocho, Tokyo",
+          "categorie": "Rue de bars/izakayas",
+          "coords": { "lat": 35.6596, "lng": 139.7021 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Alternative Onsen",
+          "texte": "Si Oedo Onsen Monogatari est fermé, recherchez d'autres sento ou super sento à Tokyo pour une expérience de bain public relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "✨",
+      "titre": "Tokyo futuriste et art immersif à Odaiba",
+      "legende": "Explorez l'île artificielle d'Odaiba, un quartier futuriste offrant des vues imprenables sur la baie de Tokyo et des expériences artistiques uniques.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🌉 Trajet en Yurikamome vers Odaiba</strong>: Profitez d'un trajet en monorail sans conducteur offrant des vues spectaculaires sur la ville et le Rainbow Bridge.",
+        "<strong>🎨 Visite de TeamLab Planets TOKYO</strong>: Une expérience artistique immersive et sensorielle, où l'art interagit avec le corps, très relaxante et unique.",
+        "<strong>🌅 Coucher de soleil sur la baie de Tokyo</strong>: Admirez la vue sur le Rainbow Bridge et la skyline de Tokyo depuis la plage d'Odaiba ou la statue de la Liberté."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "TeamLab Planets TOKYO, Tokyo",
+          "categorie": "Musée d'art numérique",
+          "coords": { "lat": 35.6606, "lng": 139.7925 }
+        },
+        {
+          "nom_recherche": "Statue de la Liberté, Odaiba, Tokyo",
+          "categorie": "Monument",
+          "coords": { "lat": 35.6294, "lng": 139.7771 }
+        },
+        {
+          "nom_recherche": "Rainbow Bridge, Tokyo",
+          "categorie": "Pont",
+          "coords": { "lat": 35.6314, "lng": 139.7758 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Réservation TeamLab",
+          "texte": "Réservez vos billets pour TeamLab Planets bien à l'avance, surtout si vous voyagez en haute saison, car les places sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures à Tokyo pour quelques achats de dernière minute ou un dernier repas japonais avant de prendre votre vol retour.",
+      "lieu": "Tokyo",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs de dernière minute</strong>: Explorez les boutiques autour de votre hôtel ou dans les gares pour des cadeaux et des spécialités locales.",
+        "<strong>🍜 Dernier repas japonais</strong>: Savourez un dernier plat de votre choix, que ce soit un sushi, un ramen ou un katsu-don.",
+        "<strong>🛫 Transfert vers l'aéroport de Haneda (HND)</strong>: Préparez-vous pour votre vol retour, en emportant des souvenirs inoubliables du Japon."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tokyo Station, Tokyo",
+          "categorie": "Gare / Shopping",
+          "coords": { "lat": 35.6812, "lng": 139.7671 }
+        },
+        {
+          "nom_recherche": "Aéroport de Haneda, Tokyo",
+          "categorie": "Aéroport",
+          "coords": { "lat": 35.5494, "lng": 139.7798 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "📦",
+          "titre": "Bagages",
+          "texte": "Pensez à vérifier les restrictions de poids et de taille de vos bagages avant de faire vos derniers achats."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "789 €/personne (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/personne (JR Pass régional ou cartes Suica/Pasmo, trajets Hakone/Nikko)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 550 €/personne (50 €/jour pour 11 jours, repas variés)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1100 €/personne (100 €/nuit pour 11 nuits, hôtel 3* à Tokyo et ryokan à Hakone)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 110 €/personne (entrées musées, onsen, cérémonie du thé, TeamLab)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Fin Janvier - Février", "symbole": "❄️" },
+    { "titre": "Mars - Avril (Sakura)", "symbole": "🌸" },
+    { "titre": "Octobre - Novembre (Koyo)", "symbole": "🍁" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En Janvier-Février, les températures à Tokyo varient entre 0 et 10°C. Prévoir des vêtements chauds, un bon manteau et des couches.", "symbole": "🧣" },
+    { "titre": "La monnaie est le Yen japonais (JPY). Les cartes de crédit sont largement acceptées, mais ayez toujours un peu de liquide pour les petits commerces ou les temples.", "symbole": "💳" },
+    { "titre": "Le réseau de transport public (trains, métros) est excellent et ponctuel. Une carte Suica ou Pasmo est indispensable pour faciliter les déplacements.", "symbole": "🚇" },
+    { "titre": "La connexion Wi-Fi est disponible dans la plupart des hôtels et de nombreux lieux publics. Une carte SIM locale ou un Pocket Wi-Fi peut être utile.", "symbole": "📶" },
+    { "titre": "Il est de coutume de ne pas laisser de pourboire au Japon, cela peut même être mal interprété.", "symbole": "🚫" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Au Japon, il existe des cafés où l'on peut caresser des chouettes, des hérissons ou même des loutres. Une expérience \"kawaii\" insolite, mais à consommer avec modération pour le bien-être animal."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les passages piétons au Japon sont si silencieux que les autorités ont dû installer des sons d'oiseaux ou de mélodies pour alerter les malvoyants et éviter les accidents."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍜",
+      "titre": "Ramen",
+      "description": "Un plat réconfortant de nouilles dans un bouillon savoureux (miso, shoyu, tonkotsu), garni de porc chashu, œuf mariné et algues nori. Chaque région a sa spécialité!"
+    },
+    {
+      "symbole": "🍣",
+      "titre": "Sushi & Sashimi",
+      "description": "Le sushi, riz vinaigré avec du poisson cru ou d'autres ingrédients, et le sashimi, fines tranches de poisson cru. Une explosion de saveurs et de fraîcheur."
+    },
+    {
+      "symbole": "🍢",
+      "titre": "Oden",
+      "description": "Un plat d'hiver populaire composé de divers ingrédients (œufs, radis daikon, gâteaux de poisson) mijotés dans un bouillon léger à base de dashi. Parfait pour se réchauffer!"
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/KHI-HND/2026-01-31/2026-02-11", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Office National du Tourisme Japonais", "url": "https://www.japan.travel/fr/fr/", "symbole": "📘" },
+    { "legende": "Transport ferroviaire", "titre": "Japan Rail Pass (infos)", "url": "https://www.japanrailpass-france.fr/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Japon", "url": "https://www.jma.go.jp/jma/indexe.html", "symbole": "🌤️" }
+  ]
+}
